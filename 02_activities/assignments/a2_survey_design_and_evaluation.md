@@ -25,7 +25,7 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 2. Sample size
 3. Target population
 4. Sampling frame
-5. Survey mode(s) 
+5. Survey mode(s)
 6. Timeline
 7. Response rate
 8. Weights
@@ -40,30 +40,70 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#3`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of the survey is to determine how age influences music preference, specifically perception of popular music. It will determine how age influences what people consider to be popular or enjoyable music both across individuals of different age groups and within individuals as they age.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population - Individuals aged 18 and older living in Canada.
+
+Sampling Frame - University of Toronto students, alumni, and staff, as well as members of the general public recruited through social media or flyers.
+
+Sampling Units - Survey respondents
+
+Sampling Strategy: Convenience sampling, such as social media, will be used to recruit more individuals. Sampling will be stratified by age groups to capture representation across a range of life stages (18–29, 30–39, 40–49, 50–59, 60+).
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your age? 
+- [] 18–29
+- [] 30–39
+- [] 40–49
+- [] 50–59
+- [] 60+
+
+2. How would you describe your current taste in music?
+- [] Pop
+- [] Rock
+- [] Hip-hop/Rap
+- [] Classical
+- [] Jazz
+- [] Country
+- [] R&B/Soul
+- [] Electronic
+- [] Other (please specify):
+
+3. In your opinion, what genre best represents “popular music” today?
+- [] Pop
+- [] Rock
+- [] Hip-hop/Rap
+- [] Classical
+- [] Jazz
+- [] Country
+- [] R&B/Soul
+- [] Electronic
+- [] Other (please specify):
+
+4. How would you describe your taste in music when you were 10 years younger than you are today?
+- [] Pop
+- [] Rock
+- [] Hip-hop/Rap
+- [] Classical
+- [] Jazz
+- [] Country
+- [] R&B/Soul
+- [] Electronic
+- [] Other (please specify):
+
+5. Do you feel that your current music taste has changed significantly from when you were a teenager?
+- [] Yes
+- [] No
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +111,19 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type: Sample survey with a cross-sectional design and stratification based on geographic location
+2. Sample size: 
+3. Target population: All persons 15 years of age and older living in the ten provinces of Canada. It excludes full-time (residing for more than six months) residents of institutions.
+4. Sampling frame: Landline and cellular telephone numbers from the Census and various administrative sources with Statistics Canada
+5. Survey mode(s): Electronic questionnaire or computer assisted telephone interviewing (CATI)
+6. Timeline: September to December 2018
+7. Response rate: 41.9%
+8. Weights: Person-level weight
+9. Data processing: Included validation measures such as analysis of changes over time, verification of estimates through cross-tabulations, and confrontation with other similar sources of data; automatic and manual edits included family, consistency and flow edits.
+10. Cleaning, imputation, etc: Imputations were made using donor records selected through a score function. Certain characteristics on each record with item or partial non response (also called a recipient record) were compared with the characteristics on all donor records. When a characteristic was the same on the donor record and the recipient record, the donor's score increased. The donor record with the highest score was deemed the "nearest" donor and was chosen to fill in the missing information of the non respondent. If more than one donor record had the highest score, one record was randomly selected. 
+11. Sources of error: Sampling error, estimates based on a sample will vary from sample to sample; imperfect coverage, differences between the target population and the surveyed population; non-response bias
+12. Limitations, known biases, etc: Exclusion of residents from the territories and institutional settings limits the generalizability of results; Sample does not include households without telephones, as well as households with telephone services; Recall bias of self-report data
+13. Link to documentation and any additional sources used: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
 ```
 
 ## Rubric
